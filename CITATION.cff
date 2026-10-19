@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "AquaFresh"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/GArulDalton/AquaFresh"
+authors:
+  - family-names: "Marisargunam"
+    given-names: "S."
+    affiliation: "Department of EEE, Saveetha Engineering College, Chennai, India"
+  - family-names: "Arul Dalton"
+    given-names: "G."
+    affiliation: "Department of CSE, Saveetha Engineering College, Chennai, India"
+    orcid: "https://orcid.org/0000-0002-5981-7176"
+preferred-citation:
+  type: article
+  title: "Minimizing Information Age and Sensor Energy in Ocean Monitoring Networks through Hybrid Acoustic and Optical Data Harvesting by Cooperative Underwater Vehicles"
+  authors:
+    - family-names: "Marisargunam"
+      given-names: "S."
+    - family-names: "Arul Dalton"
+      given-names: "G."
+  journal: "Journal of Ocean Engineering and Marine Energy"
+  year: 2026

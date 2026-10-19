@@ -1,0 +1,3 @@
+numpy>=1.24
+jax[cpu]>=0.4.20
+matplotlib>=3.7
